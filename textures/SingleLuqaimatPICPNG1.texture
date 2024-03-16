@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "SingleLuqaimatPICPNG1",
+  "identifier": "texture:124302-9a170473-bece-412d-9f22-a8f35e256f8a",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "4e53d2ba69463fa1075802f7edc7f236",
+  "assetLocator": "textures/SingleLuqaimatPICPNG1.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 800,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 800,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "4e53d2ba69463fa1075802f7edc7f236",
+      "colorCount": 34744,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.525274102963954,
+      "pixelsHigh": 800,
+      "pixelsWide": 800
+    }
+  ]
+}

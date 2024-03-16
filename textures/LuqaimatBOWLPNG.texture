@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "LuqaimatBOWLPNG",
+  "identifier": "texture:121540-9a170473-bece-412d-9f22-a8f35e256f8a",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "28a023c05c66f999fd691ab817dd07dc",
+  "assetLocator": "textures/LuqaimatBOWLPNG.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:122320-9a170473-bece-412d-9f22-a8f35e256f8a",
+    "textureExportConfig:122820-9a170473-bece-412d-9f22-a8f35e256f8a",
+    "textureExportConfig:122946-9a170473-bece-412d-9f22-a8f35e256f8a"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 465,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "28a023c05c66f999fd691ab817dd07dc",
+      "colorCount": 53797,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 11.339084703665206,
+      "pixelsHigh": 465,
+      "pixelsWide": 1024
+    }
+  ]
+}
